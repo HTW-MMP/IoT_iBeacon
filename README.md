@@ -1,6 +1,6 @@
-MMP iBeacon
+Internet of Things - iBeacon
 ============================
-A simple nodeJS project that uses the bleacon node module on Intel IoT platforms to scan for iBeacons.
+A simple nodeJS project that uses the bleacon node module on Intel IoT platform to scan for iBeacons.
 
 ## Getting started
 1. Install bleacon on your Edison
